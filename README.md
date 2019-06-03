@@ -1,11 +1,12 @@
-# upbot_ros
+# UP Squared RoboMaker Developer Kit
+## Software setup, applications and tutorials included in the kit
 
-Check the [wiki](https://github.com/gbr1/upbot_ros/wiki) to learn more.
+Check the [wiki](https://github.com/AAEONAEU-SW/upbot_ros/wiki) to learn more.
 
 ## How to install
 Open terminal and type:<br>
 `$ cd ~/catkin_ws/src`<br>
-`$ git clone https://github.com/gbr1/upbot_ros.git`<br>
+`$ git clone https://github.com/AAEONAEU-SW/upbot_ros.git`<br>
 `$ cd ..`<br>
 `$ catkin_make`<br>
 `$ catkin_make install`
@@ -34,13 +35,14 @@ In order to run this package you need:
 - [realsense](https://github.com/intel-ros/realsense) package
 
 ## More
-If you are interested in emulated robot, please check this repo: [Erwhi Hedgehog](https://github.com/gbr1/erwhi-hedgehog).<br>
+If you are interested in a full robot on wheels you can upgrade the kit following the instructions and documentation from this repository: [UPBot](https://github.com/AAEONAEU-SW/upbot_robot).<br>
 <br>
-If you were at AWS Re:MARS 2019, you can check code used in demo here: [Erwhi Hedgehog demo at AWS Re:MARS 2019](https://github.com/gbr1/erwhi_remars_2019)
+If you were at AWS Re:MARS 2019, you can check code used in demo here: [UPBot demo at AWS Re:MARS 2019](https://github.com/AAEONAEU-SW/upbot_remars_2019)
 
 <br>
 <br>
 
 
 
-***Copyright (c) 2019 Giovanni di Dio Bruno under MIT license.***
+***Copyright (c) AAEON Technology Europe B.V. 2019.***
+***Based on original work from Giovanni di Dio Bruno under MIT license.***
